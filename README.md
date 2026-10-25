@@ -35,12 +35,12 @@ A Python-based implementation of fundamental Operating System algorithms coverin
     cd os-algorithm-simulator
   ```
 
-1. Run the process scheduling simulation:
+2. Run the process scheduling simulation:
   ```bash
     python processScheduling.py
   ```
 
-1. Run the page replacement simulation:
+3. Run the page replacement simulation:
   ```bash
   python pageReplacement.py
   ```
